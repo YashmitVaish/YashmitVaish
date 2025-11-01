@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi. I'm Yashmit<br>I'm currently working on Scalable Backend and LLM systems<br>Looking to collaborate on NewGen Problems that challenge me<br>Currently Learning GoLang<br>
+Hi. I'm Yashmit<br>I'm currently working on Scalable Backend and LLM systems<br>Looking to collaborate on NewGen Problems that challenge me
 
 
 ## 🌐 Socials:
