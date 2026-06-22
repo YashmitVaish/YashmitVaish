@@ -79,30 +79,11 @@ I build **scalable backend systems** and **LLM-powered infrastructure** with a f
 ![Locust](https://img.shields.io/badge/Locust-00A98F?style=for-the-badge&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
----
-
-## 🚀 Featured Projects
-
-| Project | Stack | Highlight |
-|---|---|---|
-| [Campus Permission Portal](https://github.com/YashmitVaish) | FastAPI, React, PostgreSQL, Redis | 10,000+ peak users, deployed at TIET |
-| [Pdf2Video](https://github.com/YashmitVaish/Pdf2Video) | LangChain, CrewAI, Manim, vLLM | PDF → narrated animated video, multi-agent |
-| [Digi2Win](https://github.com/YashmitVaish) | FastAPI, llama.cpp, GGUF | On-device LLM inference, no cloud dependency |
-| [Media Processing Plugin](https://github.com/YashmitVaish/vdo-process) | FastAPI, Redis, FFmpeg, Docker | Async video pipeline, one-command deploy |
-| [P2PCS](https://github.com/YashmitVaish/P2PCS) | Go, WebRTC | Decentralized P2P code sharing (in progress) |
-
----
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YashmitVaish&theme=dark&hide_border=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=YashmitVaish&theme=dark&hide_border=true)
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YashmitVaish&theme=dark&hide_border=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YashmitVaish&theme=radical&no-frame=true&margin-w=4)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YashmitVaish&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YashmitVaish&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img alt="Yashmit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YashmitVaish&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+</picture>
