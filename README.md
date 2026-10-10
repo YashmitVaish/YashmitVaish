@@ -79,11 +79,3 @@ I build **scalable backend systems** and **LLM-powered infrastructure** with a f
 ![Locust](https://img.shields.io/badge/Locust-00A98F?style=for-the-badge&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
-
-## 📊 GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YashmitVaish&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YashmitVaish&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img alt="Yashmit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YashmitVaish&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-</picture>
